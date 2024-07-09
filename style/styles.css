@@ -459,16 +459,19 @@ text-align: center;
     height:50px;
     width:100%;
     /* margin-left: 290px; */
-     padding: 10px 0;  
+     /* padding: 10px 0;   */
     border-radius: 4px;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
      
   
 
 }
-.deal-form >button{
+.deal-form .btn{
     margin: 0; 
-    padding: 10px;
+    /* padding: 10px; */
+    background-color: #E55473;
+    border-radius: 10px;
+    width:200px;
 }
 
 /* footer */
