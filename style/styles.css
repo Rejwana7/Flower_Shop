@@ -466,7 +466,7 @@ text-align: center;
   
 
 }
-.deal-form button{
+.deal-form >button{
     margin: 0; 
     padding: 10px;
 }
