@@ -97,7 +97,9 @@ button {
     /* Reset any default margin or padding that might affect alignment */
     margin-right: 438px;
     margin-top: 8px;
-    padding: 10px 19px; /* Adjust padding as needed */
+    /* padding: 10px 19px;  */
+    padding: 8px 7px;
+    /* Adjust padding as needed */
     cursor: pointer;
     border-radius: 8px;
 
