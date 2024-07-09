@@ -443,11 +443,13 @@ text-align: center;
    
 }
 .deal-form{
-    /* width:100%; */
+     width:100%; 
+     max-width:600px;
     display:flex;
-    justify-content: center;
+    /* justify-content: center; */
     align-items: center;
-    margin-top: 80px;
+    /* margin-top: 80px; */
+    margin:80px auto;
    
    
 
@@ -455,17 +457,17 @@ text-align: center;
 .deal-form input{
     border:none;
     height:50px;
-    width:1900px;
-    margin-left: 290px;
-    padding: 10px 0; 
+    width:100%;
+    /* margin-left: 290px; */
+     padding: 10px 0;  
     border-radius: 4px;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
      
   
 
 }
-.deal-form btn{
-    margin: 20px;
+.deal-form button{
+    margin: 0; 
     padding: 10px;
 }
 
